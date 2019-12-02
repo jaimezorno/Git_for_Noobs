@@ -1,1 +1,1 @@
-print("Hello Medium!")
+print("Hello Internet!")
